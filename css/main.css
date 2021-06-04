@@ -259,6 +259,7 @@ a.github-appstore {
 
 .profile-image img{ 
     display: block;
+    height: 125px;
     width: 125px;
     border: 1px solid black;
     border-radius: 50%;
